@@ -141,7 +141,7 @@ function App() {
           <Route path="/shop" component={Shop} />
           <Route path="/keraton" component={Keraton} />
           <Route path="/team" component={Officers} />
-          {/* <Route path="/apply" component={Apply} /> */}
+          <Route path="/apply" component={Apply} />
         </Switch>
 
         {/* {renderPopUp()} */}
